@@ -1,6 +1,8 @@
 # PO_zadanie
 Zadanie z przedmiotu 'Programowanie Obiektowe'
 
+## Treść zadania
+
 Zadanie 1: Optymalna budowa
 Wprowadzenie
 
