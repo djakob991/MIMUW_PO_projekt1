@@ -61,19 +61,19 @@ Wśród strategii wyboru rozwiązania są:
 
     strategia minimalistyczna
 
-    Działa zachłannie. Dopóki problem nie jest rozwiązany, z cennika wybiera najkrótszy pręt, w którym mieści się najdłuższy brakujący odcinek. Następnie rozważa brakujące odcinki w kolejności od najdłuższych. Jeśli rozważany odcinek mieści się w części pręta, która jeszcze pozostała, jest od niej odcinany. To, co zostanie z pręta, po rozważeniu ostatniego odcinka, jest odpadem.
+Działa zachłannie. Dopóki problem nie jest rozwiązany, z cennika wybiera najkrótszy pręt, w którym mieści się najdłuższy brakujący odcinek. Następnie rozważa brakujące odcinki w kolejności od najdłuższych. Jeśli rozważany odcinek mieści się w części pręta, która jeszcze pozostała, jest od niej odcinany. To, co zostanie z pręta, po rozważeniu ostatniego odcinka, jest odpadem.
 
     strategia maksymalistyczna
 
-    Działa tak, jak strategia minimalistyczna, ale z cennika zawsze wybiera najdłuższy pręt.
+Działa tak, jak strategia minimalistyczna, ale z cennika zawsze wybiera najdłuższy pręt.
 
     strategia ekonomiczna
 
-    Znajduje jedno z, być może wielu, rozwiązań minimalizujących koszt zakupu prętów.
+Znajduje jedno z, być może wielu, rozwiązań minimalizujących koszt zakupu prętów.
 
     strategia ekologiczna
 
-    Znajduje jedno z, być może wielu, rozwiązań minimalizujących długość odpadów.
+Znajduje jedno z, być może wielu, rozwiązań minimalizujących długość odpadów.
 
 ### Polecenie
 
