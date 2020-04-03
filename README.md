@@ -5,7 +5,7 @@ Zadanie z przedmiotu 'Programowanie Obiektowe'
 
 Zadanie 1: Optymalna budowa
 
-Wprowadzenie
+### Wprowadzenie
 
 Podczas robót budowlanych zachodzi potrzeba rozwiązania problemu optymalizacyjnego dotyczącego przygotowania prętów do konstrukcji stalowych.
 
@@ -75,7 +75,7 @@ Wśród strategii wyboru rozwiązania są:
 
     Znajduje jedno z, być może wielu, rozwiązań minimalizujących długość odpadów.
 
-Polecenie
+### Polecenie
 
 Napisz program, który:
 
@@ -85,7 +85,7 @@ Napisz program, który:
 
     pisze na standardowe wyjście rozwiązanie, określając jego jakość, kupione pręty i sposób ich podziału.
 
-Postać danych
+### Postać danych
 
 Dane programu to ciąg wierszy. We wszystkich, z wyjątkiem ostatniego, są liczby całkowite w zapisie dziesiętnym. Między każdą parą liczb sąsiadujących w wierszu jest jedna spacja.
 
@@ -99,7 +99,7 @@ Dane programu to ciąg wierszy. We wszystkich, z wyjątkiem ostatniego, są licz
 
     W ostatnim wierszu danych, po projekcie, jest słowo minimalistyczna, maksymalistyczna, ekonomiczna lub ekologiczna, będące nazwą wybranej strategii.
 
-Postać wyniku
+### Postać wyniku
 
 Wynik programu jest ciągiem wierszy z dziesiętnym zapisem liczb całkowitych. Między każdą parą liczb sąsiadujących w wierszu jest jedna spacja.
 
