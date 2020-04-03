@@ -4,6 +4,7 @@ Zadanie z przedmiotu 'Programowanie Obiektowe'
 ## Treść zadania
 
 Zadanie 1: Optymalna budowa
+
 Wprowadzenie
 
 Podczas robót budowlanych zachodzi potrzeba rozwiązania problemu optymalizacyjnego dotyczącego przygotowania prętów do konstrukcji stalowych.
