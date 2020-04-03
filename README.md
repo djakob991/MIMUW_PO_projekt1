@@ -1,4 +1,4 @@
-# PO_zadanie
+# PO_projekt1
 Zadanie z przedmiotu 'Programowanie Obiektowe'
 
 ## Treść zadania
